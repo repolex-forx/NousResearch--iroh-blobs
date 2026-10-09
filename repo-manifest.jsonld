@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/NousResearch/iroh-blobs/commit/46454523802b4486f052421600c9e551bfb4f59c",
       "git:hexsha": "46454523802b4486f052421600c9e551bfb4f59c",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/NousResearch/iroh-blobs/commit/f7e3551851efa89d8cb349f6f28e445267fc6e67",
